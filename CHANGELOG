@@ -1,0 +1,29 @@
+2019-11-25
+Added baseConvNet.py and testConvNet.py
+testConvNet.py:
+Changed the code to predict the correct result in situ
+
+2019-11-26
+Organised code into folders and started work on the image processing
+
+2019-11-28
+Added baseYoloV3Image.py and testYoloV3Image.py
+
+2019-11-29
+Added  imageAILabelObjectsFromVideo.py and imageAIDetectObjectsFromVideo.py
+Fixed TensorFlow compatability issues
+Organised the folder deepLearning
+Replaced code for imageProcessing.py
+
+2019-12-03
+Created the MRBC road crack dataset
+
+2019-12-04
+Adapted the code to google colab
+Added the folder google-colab with imageai-mrbc-cracks.py 
+
+2020-01-07
+Added all the code worked on during the past month:
+camera-detection.py
+detect-objects-from-image.py
+transfer-learning.py
